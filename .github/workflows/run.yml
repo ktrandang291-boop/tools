@@ -1,0 +1,59 @@
+name: .NET
+
+on:
+    push:
+        branches: ['main']
+    pull_request:
+        branches: ['main']
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Setup .NET
+              uses: actions/setup-dotnet@v4
+              with:
+                  dotnet-version: 8.0.x
+
+
+            - name: run app
+              run: |
+                  chmod +x ./ApiHub
+                  ./ApiHub
+
+            - name: Zip Uploads folder
+              run: zip -r Uploads.zip Uploads
+
+            # Dùng upload-artifact và download-artifact để chia sẻ thư mục publish giữa các jobs.
+            # - name: Upload uploads
+            #   uses: actions/upload-artifact@v4
+            #   with:
+            #       name: uploads
+            #       path: ./Uploads
+            #       retention-days: 2 # Hoặc 1-90 ngày tùy ý
+
+            - name: Upload file to cloudinary
+              run: |
+                curl -X POST "https://api.cloudinary.com/v1_1/${{ secrets.CLOUDINARY_CLOUD_NAME }}/auto/upload" \
+                  -F "file=@./Uploads.zip" \
+                  -F "upload_preset=${{ secrets.CLOUDINARY_UPLOAD_PRESET }}"
+        
+    notify:
+        runs-on: ubuntu-latest
+        needs: build
+        steps:
+            - name: Send Discord
+              run: |
+                curl -H "Content-Type: application/json" \
+                -X POST \
+                -d '{
+                  "embeds": [{
+                    "title": "Text to speech",
+                    "description": "completed ✅. Link: https://github.com/VinhTin-AQUA/temps",
+                    "color": 5814783
+                  }]
+                }' \
+                ${{ secrets.DISCORD_WEBHOOK }}
