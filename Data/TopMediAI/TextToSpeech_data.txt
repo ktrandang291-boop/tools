@@ -1,7 +1,9 @@
-Heli trong sản xuất chip thực ra quan trọng hơn nhiều người nghĩ. Nó được dùng để làm mát wafer silicon và các thiết bị trong quá trình khắc vi mạch, giúp giữ nhiệt độ luôn ổn định. 
-Không chỉ vậy, heli còn hỗ trợ tạo môi trường chân không sạch và kiểm soát plasma trong các bước khắc và lắng đọng vật liệu, vốn là những công đoạn cực kỳ quan trọng trong sản xuất chip hiện đại.
-Ngoài ra, heli còn được dùng để phát hiện rò rỉ trong hệ thống chân không và hỗ trợ làm sạch wafer sau xử lý nhờ khả năng len lỏi vào những khe rất nhỏ. 
-Điều khiến heli trở nên đặc biệt là nó rất khó thay thế, vì là khí trơ, dẫn nhiệt tốt và có các tính chất vật lý mà khí khác không thể mô phỏng hoàn toàn trong các quy trình chính xác cao. 
-Trong khi đó, heli lại là tài nguyên hữu hạn, chủ yếu thu từ khí tự nhiên, khó lưu trữ lâu dài và một khi thất thoát thì không thể thu hồi lại. 
-Vì vậy, nếu thiếu heli, cả dây chuyền sản xuất chip có thể bị ảnh hưởng nghiêm trọng, và đó là lý do ngành công nghiệp bán dẫn luôn phải đảm bảo nguồn cung heli ổn định dù chi phí rất cao.
-Bạn còn biết những công dụng tuyệt vời nào của heli nữa không, hãy bình luận cho mọi người cùng biết với nhé.
+Vì sao nước ngọt có gas cứ mở nắp là bọt trào lên? Thật ra bên trong lon nước có chứa rất nhiều khí xê ô hai, được nén dưới áp suất cao.
+Chính áp suất này khiến khí bị ép tan hoàn toàn vào nước, nên nhìn bên ngoài, lon nước trông vẫn rất bình thường. Khi lon còn đóng kín, mọi thứ vẫn ổn định.
+Nhưng ngay khoảnh khắc bạn mở nắp, áp suất bên trong giảm mạnh gần như tức thì. Và khi áp suất giảm, nước không thể giữ lượng khí đó lại nữa.
+Lúc này, xê ô hai bắt đầu thoát ra ngoài cùng lúc, tạo thành hàng ngàn bong bóng li ti. Những bong bóng đó liên tục nổi lên trên bề mặt, và đó chính là thứ tạo ra lớp bọt mà bạn nhìn thấy.
+Và nếu bạn từng thấy người ta bỏ kẹo Mentos vào Coca, rồi nước phun mạnh lên như vòi nước, thì đó cũng là cùng một nguyên lý.
+Bề mặt viên kẹo có rất nhiều lỗ nhỏ li ti, khiến khí xê ô hai thoát ra cực nhanh trong cùng một lúc. Còn nếu lắc lon trước khi mở thì sao?
+Khi bị lắc, bên trong lon đã xuất hiện sẵn vô số bong bóng nhỏ bám khắp chất lỏng. Vì vậy khi mở nắp, khí thoát ra nhanh hơn rất nhiều, áp lực đẩy mạnh hơn, và nước dễ phun trào ra ngoài.
+Đó cũng là lý do nước ngọt lạnh thường ít bị trào hơn nước nóng, vì nước lạnh giữ khí tốt hơn.
+Một hiện tượng rất quen thuộc trong cuộc sống hằng ngày, nhưng thật ra lại là cả vật lý và hóa học đang diễn ra ngay trong tay bạn.
