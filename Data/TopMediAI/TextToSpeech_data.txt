@@ -1,9 +1,28 @@
-Vì sao nước ngọt có gas cứ mở nắp là bọt trào lên? Thật ra bên trong lon nước có chứa rất nhiều khí xê ô hai, được nén dưới áp suất cao.
-Chính áp suất này khiến khí bị ép tan hoàn toàn vào nước, nên nhìn bên ngoài, lon nước trông vẫn rất bình thường. Khi lon còn đóng kín, mọi thứ vẫn ổn định.
-Nhưng ngay khoảnh khắc bạn mở nắp, áp suất bên trong giảm mạnh gần như tức thì. Và khi áp suất giảm, nước không thể giữ lượng khí đó lại nữa.
-Lúc này, xê ô hai bắt đầu thoát ra ngoài cùng lúc, tạo thành hàng ngàn bong bóng li ti. Những bong bóng đó liên tục nổi lên trên bề mặt, và đó chính là thứ tạo ra lớp bọt mà bạn nhìn thấy.
-Và nếu bạn từng thấy người ta bỏ kẹo Mentos vào Coca, rồi nước phun mạnh lên như vòi nước, thì đó cũng là cùng một nguyên lý.
-Bề mặt viên kẹo có rất nhiều lỗ nhỏ li ti, khiến khí xê ô hai thoát ra cực nhanh trong cùng một lúc. Còn nếu lắc lon trước khi mở thì sao?
-Khi bị lắc, bên trong lon đã xuất hiện sẵn vô số bong bóng nhỏ bám khắp chất lỏng. Vì vậy khi mở nắp, khí thoát ra nhanh hơn rất nhiều, áp lực đẩy mạnh hơn, và nước dễ phun trào ra ngoài.
-Đó cũng là lý do nước ngọt lạnh thường ít bị trào hơn nước nóng, vì nước lạnh giữ khí tốt hơn.
-Một hiện tượng rất quen thuộc trong cuộc sống hằng ngày, nhưng thật ra lại là cả vật lý và hóa học đang diễn ra ngay trong tay bạn.
+Bạn có bao giờ tự hỏi, Tại sao có những nước xem video 4 ca mượt như nước chảy, còn có những nơi, chỉ cần load YouTube thôi cũng phải chờ quay vòng tròn vài giây?
+Có quốc gia Internet nhanh đến mức gần như không có độ trễ. Nhưng cũng có nơi, Internet rẻ đến mức gần như ai cũng dùng được.
+Hôm nay, mình sẽ đưa bạn đi một vòng thế giới, so sánh Internet của 5 quốc gia rất quen thuộc.
+Đây là thông tin do chúng tôi tự tìm hiểu và tổng hợp từ nhiều nguồn, nếu có gì sai bạn vui lòng comment bên dưới nhé.
+Trước khi so sánh, mình nói nhanh một chút. Internet giữa các quốc gia thường được đánh giá qua 8 yếu tố, tốc độ tải xuống và tải lên, độ trễ. 
+Độ phủ sóng, hạ tầng mạng, độ ổn định, giá cả, băng thông quốc tế, công nghệ mới như 5G, fiber, cloud. Tuy nhiên để dễ hiểu thì chúng tôi chỉ nói theo cách mọi người dễ hiểu nhất có thể.
+Đầu tiên là Hàn Quốc, xứ sở kim chi. Nếu nói về Internet, thì Hàn Quốc gần như luôn nằm top đầu thế giới. Người ta nói ở Hàn Quốc mất điện còn hiếm hơn mất mạng.
+Ở đây, Internet nhanh đến mức, việc tải một bộ phim 4 ca đôi khi chỉ mất vài chục giây. Ở xê un, người ta gần như mặc định rằng Internet phải nhanh, và luôn luôn ổn định.
+Một số điểm chính: một trong những Internet nhanh nhất thế giới, cáp quang phủ gần như toàn quốc, ping thấp, cực tốt cho gaming và streaming, giá rẻ so với chất lượng.
+Với game thủ thì nơi đây là thiên đường. Bạn chơi game online, dường như không có độ trễ.
+Trung Quốc, mạnh nhưng đặc biệt.Bên trong đất nước này, Internet cực nhanh, 5G cực kỳ phát triển, App nội địa siêu mạnh như WeChat, Alibaba, Baidu. 
+Tốc độ trong nước cao và ổn định. Internet quốc tế bị hạn chế và định tuyến riêng 5G phát triển rất mạnh.Nhưng, Internet quốc tế lại là một câu chuyện khác.
+Nhiều dịch vụ nước ngoài bị hạn chế, và việc truy cập web quốc tế đôi khi không ổn định như trong nước. Nhưng nếu chỉ xét hạ tầng và công nghệ thì Trung Quốc vẫn là một gã khổng lồ Internet.
+Mỹ, mạnh nhưng không đồng đều. Mỹ là nơi Internet phát triển sớm, và là quê hương của Google, YouTube, Facebook, Netflix. Nghe thì có vẻ phải đỉnh nhất thế giới đúng không?
+Nhưng thực tế Ở thành phố lớn, Internet rất nhanh, ở vùng nông thôn có nơi vẫn chậm hoặc chưa ổn định. Hạ tầng rất mạnh nhưng không đồng đều giữa các bang.
+Điểm mạnh của Mỹ, hệ sinh thái Internet toàn cầu, Data center cực mạnh, Kết nối quốc tế rất tốt. Giá Internet khá cao. Điểm yếu, Không đồng đều giữa các khu vực.
+Việt Nam, đang lên rất nhanh. Việt Nam không phải nước có Internet nhanh nhất thế giới, nhưng tốc độ phát triển thì cực kỳ ấn tượng.
+Cáp quang FTTH gần như phổ biến, 4G phủ rộng, 5G đang mở rộng nhanh.
+Có thể bạn đã từng trải qua, đang xem YouTube thì lag nhẹ, hoặc đứt mạng do cáp biển quốc tế. Mỗi lần cáp quang biển gặp sự cố, dân mạng Việt Nam gần như ai cũng biết ngay.
+Nhưng bù lại, giá Internet ở Việt Nam khá rẻ và tốc độ ngày càng cải thiện rõ rệt.
+Tốc độ cải thiện rất nhanh nhờ cáp quang FTTH. 4G/5G phát triển mạnh trong 5 năm gần đây. Một số thời điểm bị ảnh hưởng bởi cáp biển quốc tế. Giá Internet thuộc loại rẻ.
+Chắc ai ở Việt Nam cũng từng trải qua cảm giác, đang combat game, thì mạng quay vòng tròn đúng không.
+Ấn Độ, rẻ, đông, nhưng còn chênh lệch. Ấn Độ là quốc gia có dân số cực lớn, nên Internet ở đây mang một đặc điểm rất rõ là rẻ và rất rẻ. 5G đang mở rộng nhanh. 
+Nhưng đổi lại tốc độ, hạ tầng chưa đồng đều, vùng nông thôn còn hạn chế, độ ổn định chưa cao.
+Ở Ấn Độ, có những người gần như dùng Internet bằng điện thoại cho mọi thứ, từ học tập, xem phim cho tới thanh toán hàng ngày.
+Mỗi quốc gia có nơi mạnh về tốc độ, có nơi nổi bật vì giá rẻ, có nơi lại xây dựng cả một hệ sinh thái riêng.
+Nhưng dù khác nhau thế nào, Internet giờ đã trở thành một phần không thể thiếu của cuộc sống hiện đại.
+Nếu bạn thấy video thú vị, hãy để lại 1 like và subscribe để không bỏ lỡ những video tiếp theo nhé. Xin chào và hẹn gặp lại.
